@@ -1,3 +1,3 @@
 # A.I-voice-Assistant (Alennev)
-developed a Small virtual AI Voice assistant by using some python libraries,which will perform several tasks with just a voice command.
+Developed a Small virtual AI Voice assistant by using some python libraries,which will perform several tasks with just a voice command.
  AI assistant is an application program that understands natural language voice commands and completes tasks for the user. tasks include taking dictation, reading text or email messages aloud, looking up phone numbers, scheduling, placing phone calls and reminding the end user about appointments. Popular virtual assistants currently include Amazon Alexa, Apple's Siri, Google Assistant and Microsoft's Cortana -- the digital assistant built into Windows Phone 8.1 and Windows 10.
